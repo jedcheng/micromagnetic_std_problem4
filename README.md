@@ -1,6 +1,7 @@
 # micromagnetic_std_problem4
 
-A solver to solve the micormagnetic standard problem 4
+A solver to solve the micromagnetic standard problem 4
+
 https://www.ctcms.nist.gov/~rdm/mumag.org.html
 
 
